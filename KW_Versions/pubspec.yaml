@@ -1,0 +1,68 @@
+name: kw_versions
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+2
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  page_transition: any
+  firebase_core: any
+  firebase_auth: any
+  cloud_firestore: any
+  image_picker: any
+  firebase_storage: any
+  intl: any
+  location: any
+  geolocator: any
+  geocoding: any
+  firebase_analytics: any
+  http: any
+  getwidget: ^2.0.5
+  firebase_messaging: ^11.2.8
+  google_maps_flutter: any
+  flutter_polyline_points: any
+  firebase_core_platform_interface: any
+  tflite: any
+  cupertino_icons: ^1.0.2
+  flutter_stripe: ^2.0.1
+  flutter_bloc: any
+  equatable: any
+  bloc: any
+  carousel_slider: ^4.1.1
+  url_launcher: ^6.1.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+      - images/
+      - images/Barack_Obama.jpg
+      - images/default.jpg
+      - images/Edit.png
+      - images/plastics.jpeg
+      - images/Trash1.jpeg
+      - images/trash2.jpeg
+      - images/trash3.jpeg
+      - images/trash4.jpeg
+      - images/bag.jpeg
+      - images/metal.jpeg
+      - images/plastic.jpeg
+      - images/paper.jpeg
+      - images/cardboard.jpeg
+      - images/1.gif
+      - assets/labels(1).txt
+      - assets/model_unquant(1).tflite
+

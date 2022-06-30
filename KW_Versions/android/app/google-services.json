@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "457635421549",
+    "firebase_url": "https://kachrewala-fe749-default-rtdb.firebaseio.com",
+    "project_id": "kachrewala-fe749",
+    "storage_bucket": "kachrewala-fe749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457635421549:android:b8ad75b8dfa1879d114e64",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457635421549-2eed24e1fslen6rf1csq0c4o0tm66gti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Tf7VL-pG4nINmqZfGktWnLEoB6lN01g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457635421549-2eed24e1fslen6rf1csq0c4o0tm66gti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457635421549-d8m5gl0ukvmfgiipdgan85hdusoocal8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kachrewalaChatPortal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457635421549:android:c21a078e65084ba2114e64",
+        "android_client_info": {
+          "package_name": "com.example.get_not"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457635421549-2eed24e1fslen6rf1csq0c4o0tm66gti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Tf7VL-pG4nINmqZfGktWnLEoB6lN01g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457635421549-2eed24e1fslen6rf1csq0c4o0tm66gti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457635421549-d8m5gl0ukvmfgiipdgan85hdusoocal8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kachrewalaChatPortal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457635421549:android:d0ac485ea81857b5114e64",
+        "android_client_info": {
+          "package_name": "com.example.kw_versions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457635421549-2eed24e1fslen6rf1csq0c4o0tm66gti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Tf7VL-pG4nINmqZfGktWnLEoB6lN01g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457635421549-2eed24e1fslen6rf1csq0c4o0tm66gti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457635421549-d8m5gl0ukvmfgiipdgan85hdusoocal8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kachrewalaChatPortal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457635421549:android:af36fb69a0c2dd4c114e64",
+        "android_client_info": {
+          "package_name": "com.kc.new_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457635421549-2eed24e1fslen6rf1csq0c4o0tm66gti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Tf7VL-pG4nINmqZfGktWnLEoB6lN01g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457635421549-2eed24e1fslen6rf1csq0c4o0tm66gti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457635421549-d8m5gl0ukvmfgiipdgan85hdusoocal8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kachrewalaChatPortal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
